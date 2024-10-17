@@ -58,7 +58,7 @@ Hardware: 	Motherboard, CPU(Central Processing Unit), GPU(Graphics Processing Un
 
 
 
-Networking
+Networking terms
 1. IP Address (Internet protocol): The number used to identify devices that are connected to the internet.
 2. Subnet mask: It hosts portions in an IP address for routing and identification.
 3. Gateway: It connects network devices, helping them communicate easier.
@@ -68,7 +68,9 @@ Networking
 7. Access point: is allows wifi enabled devices to connect to a wired network.
 8. MAC address: Identifier assigned to a network interface for communication.
 9. Port: Allows multiple devices to use networks without interference.
-10. Types of networks (Wan, LAN, PAN MAN and VPN)
+10. System monitoring =  tracking the performance/health of system or network
+11.System Security = Protocols in place to protect systems, networks, and more from breaches/threats.
+12. Types of networks (Wan, LAN, PAN MAN and VPN)
 
 Permissions
 ls -l = view permissions
