@@ -131,6 +131,8 @@ git reset --soft HEAD~x = remove x commits
 Bash Script
 Variables = $variable name
 Control structures = if, else, while, elif, loop
+echo "words" = read the words
+read = echo but more advanced
 
 
 
@@ -138,5 +140,5 @@ Control structures = if, else, while, elif, loop
 
 
 
- Passwords
+Passwords
 bot_1 = Viscount2022
