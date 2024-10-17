@@ -126,7 +126,9 @@ git restore “file name” = revert to last commitment version
 git rm –cached “file name” = remove file from repository
 git reset --soft HEAD~x = remove x commits
 
-
+Bash Script
+Variables = $variable name
+Control structures = if, else, while, elif, loop
 
 
 
