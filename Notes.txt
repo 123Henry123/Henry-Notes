@@ -138,6 +138,7 @@ Control structures
 if, else, while, elif, loop
 fi = used to end an if statement
 done = used to close a while loop
+$RANDOM = generate a random number using %
 
 Regex
 
