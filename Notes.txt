@@ -139,6 +139,12 @@ if, else, while, elif, loop
 fi = used to end an if statement
 done = used to close a while loop
 $RANDOM = generate a random number using %
+case = used to branch stuff
+ecas = used to end case statement
+
+
+
+
 
 Regex
 
