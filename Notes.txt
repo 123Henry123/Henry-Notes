@@ -141,13 +141,13 @@ done = used to close a while loop
 $RANDOM = generate a random number using %
 case = used to branch stuff
 ecas = used to end case statement
-
+-gt, -lt, -ne, -eq -le, -ge comparisons bash
+&& and || or 
 
 
 
 
 Regex
-
 
 
 
