@@ -146,6 +146,10 @@ ecas = used to end case statement
 
 
 
+Data Types
+Array = place to store variables.
+1=Integer=int
+2.3=Float
 
 Regex
 
