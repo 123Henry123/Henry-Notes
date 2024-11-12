@@ -46,6 +46,7 @@ nano file_name = allows you to edit a file
 mv = rename
 find = search for files
 Rm = remove stuff
+find /path/to/search -(name/size) "name or part of name" +100M
 
 Computer Parts
 Applications:
