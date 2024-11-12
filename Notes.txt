@@ -86,7 +86,7 @@ ALL = o
 - to remove permissions
 = to set exact permissions
 Chmod = Change file permissions
-
+chown username filename
 
 Useful Commands
 1. Ifconfig (internet configuration) = It is used in Unix-like operating systems like Linux, to configure and display information about network interfaces on a system.
