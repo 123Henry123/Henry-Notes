@@ -35,7 +35,7 @@ henry = user
 Henry = PC name
 ~ = home/henry
 cd / = goes to root directory
-ls = list
+ls (-l)= list (permissions)
 cd = change directory
 cd- = go back
 pwd = prints current wording directory
@@ -70,10 +70,19 @@ Networking terms
 8. MAC address: Identifier assigned to a network interface for communication.
 9. Port: Allows multiple devices to use networks without interference.
 10. System monitoring =  tracking the performance/health of system or network
-11.System Security = Protocols in place to protect systems, networks, and more from breaches/threats.
-12. Types of networks (Wan, LAN, PAN MAN and VPN)
+11. System Security = Protocols in place to protect systems, networks, and more from breaches/threats.
+12. System = a bunch of processes that work together to make things work
+13. Process = the way things are done
+14. Types of networks (Wan, LAN, PAN MAN and VPN)
 
 Permissions
+Octal Notation
+-r-xrw-rw-
+d r-xrw-rw-
+d 	rwx	-xr	-x
+	owner	group	other
+- at the start = file
+d at the start = directory
 ls -l = view permissions
 r = read = 4
 w = write = 2
