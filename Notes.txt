@@ -13,7 +13,7 @@ Git
 Bash
 Data Types
 Security Data
-
+Relationships
 
 
 LOGIC GATES\Boolean
@@ -188,6 +188,15 @@ Protected C = could be damaging to you
 Secret = Extremely dangerous information
 Top Secret = secret except more detail
 eyes/ultra = super extremely important will probably never see anything like it 
+
+Relationships
+System defines Permissions, File System, Users accounts
+	Users accounts (Belongs To) User Types(Root, Regular, Daemons, Guest)
+		User Types (Have) Permissions
+			Permissions (Governs) File System
+		User Types (Accesses) File System
+			File System (Affects) System
+
 
 
 
