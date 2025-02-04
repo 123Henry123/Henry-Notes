@@ -47,7 +47,7 @@ cat = view what’s in a file
 touch = creates empty documents
 nano file_name = allows you to edit a file
 mv = rename
-find = search for files
+find path -name "name of file"= search for files
 Rm = remove stuff
 find /path/to/search -(name/size) "name or part of name" +100M
 
