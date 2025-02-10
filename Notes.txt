@@ -4,6 +4,7 @@ Grade 10 Cybersecurity
 INDEX
 Logic gates
 Basic Linux Commands
+Basic Windows Commands
 Computer Parts
 Networking
 Permissions/User types
@@ -50,6 +51,12 @@ mv = rename
 find path -name "name of file"= search for files
 Rm = remove stuff
 find /path/to/search -(name/size) "name or part of name" +100M
+
+Basic Windows Commands
+cd = change directory
+ls = list
+alias = shows all commands
+
 
 Computer Parts
 Applications:
