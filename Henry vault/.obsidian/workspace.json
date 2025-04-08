@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "98b4527ef3e28d92",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9dce87f393de10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b315a31420df7ef",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1ed9dee57a040d7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Henry-Notes/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "234704abd4cfcedf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9db6c4ebaab33a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22fca8ccf12891fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "21bbdb0d73955e66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c40a4fdc3633ad42",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "29ff0fa8ae6fcfb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a788d0b9745a904",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eff5a3cf89e9fa4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2025-03-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-03-24"
+            }
+          },
+          {
+            "id": "76903beb731b38a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2025-03-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-03-24"
+            }
+          },
+          {
+            "id": "eb09ece574d4f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "36f550a1507dbabe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2025-03-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-03-24"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ed9dee57a040d7d",
+  "lastOpenFiles": [
+    "Networking.md",
+    "Logic Gates.md",
+    "Henry-Notes/README.md",
+    "Index.md",
+    "Computer Parts.md",
+    "Basic Linux Commands.md",
+    "Untitled",
+    "Untitled.canvas",
+    "2025-04-07.md",
+    "Henry-Notes/Notes.txt",
+    "Henry-Notes",
+    "Untitled 2.md",
+    "2025-03-26.md",
+    "2025-03-24.md"
+  ]
+}
