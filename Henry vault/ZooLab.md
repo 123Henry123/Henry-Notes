@@ -1,0 +1,3 @@
+ In the virtual machine I have created users and groups. Then I put them into their respective groups. I have also set a password for each user and assigned them the permissions they were requested to have. In my zoo lab virtual machine I have also built a file structure from the root directory. starting with zoo. and then a directory for each group inside of zoo. 
+ 
+Throughout this assignment I have reviewed how to assign permissions and I have learned ways to give permissions quicker. I have also reviewed how to create new users and assign them passwords. Also I reviewed how to add users and learned how to create groups. Also, I learned how to change the ownership of files and folders.

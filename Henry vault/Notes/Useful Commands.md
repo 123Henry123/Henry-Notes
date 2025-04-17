@@ -1,0 +1,21 @@
+1. Ifconfig (internet configuration) = It is used in Unix-like operating systems like Linux, to configure and display information about network interfaces on a system.
+2. ip (internet protocol) = it is the address of your device. You would use it to view information about network interfaces, like their name, states, and hardware addresses. It also replaced the ifconfig and route command.
+3. host = used to find the ip address of a specific domain name or find the domain name of an IP address.
+4. tracepath = traces network paths and is similar to traceroute.
+5. ss = used to display socket statistics. It replaced netstat.
+6. dig = retrieves information about various DNS.
+7. iwconfig = It configures wireless network interfaces on linux systems.
+8. hostname = It shows the name of the device you’re using.
+9. ping = it shows how well your computer is working.
+10. ifplugstatus = You need to download ifplugd to use the command. The command checks the link status of a network interface.
+11. tcpdump = Good for network troubleshooting, analysis, debugging.
+12. wget = used to download files from the internet
+13. iftop = view a list of network connections in real time and their transfer rates
+14. arp = Used to display and modify the Address resoulution protocol (APR) cache on a system. APR is a network protocol used to map an IP address to a physical (MAC) address on a local network.
+15. Traceroute = it traces network paths.
+16. netstat = Provides information about network connections, routing tables, interface statistics, and other network-related information on a computer.
+17. nslookup = query DNS servers to obtain domain name or IP address mapping, or other DNS records
+18. mtr = It combines "traceroute" and "ping" commands. It sends packets it you destination then it continuously updates the information.
+19. route = It is used to display or manipulate the routing table. The routing table is a set of rules that dictates how network traffic should be directed in a computer network.
+20. whois = It queries the WHOIS database. The WHOIS database contains information about registered domain names, IP address allocations and other registration details.
+21. IRC (internet relay chat): It is a protocol used for real-time text messaging or chat using the internet. It allows people to communicate through private chats or groups.

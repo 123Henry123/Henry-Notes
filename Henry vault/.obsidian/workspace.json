@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1ed9dee57a040d7d",
+            "id": "cc71136b2ce84bbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Henry-Notes/README.md",
+                "file": "Notes/INDEX.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -36,15 +36,39 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "INDEX"
+            }
+          },
+          {
+            "id": "f37880d52b18389d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ZooLab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ZooLab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,21 +215,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ed9dee57a040d7d",
+  "active": "f37880d52b18389d",
   "lastOpenFiles": [
+    "Zoo Lab part 2.md",
+    "ZooLab.md",
+    "Henry-Notes/README.md",
+    "Henry-Notes/Notes.txt",
+    "Henry-Notes",
     "Networking.md",
     "Logic Gates.md",
-    "Henry-Notes/README.md",
     "Index.md",
     "Computer Parts.md",
     "Basic Linux Commands.md",
-    "Untitled",
+    "Notes/INDEX.md",
+    "Notes/Data Types.md",
+    "Notes/Computer Parts.md",
+    "Notes/Basic Linux Commands.md",
+    "Notes/Bash.md",
+    "Notes/Scripting/Programing Languages.md",
+    "Notes/Henry-Notes/README.md",
+    "Notes/Useful Commands.md",
+    "Notes/Security Data.md",
+    "Notes/Scripting Programing Languages.md",
+    "Notes/Relationships.md",
+    "Notes/Privacy and Security.md",
+    "Notes/Permissions.md",
+    "Notes/Notes.md",
+    "Notes/Networking.md",
+    "Notes/Logic Gates.md",
+    "Notes/Keywords Abbreviations.md",
+    "Notes/Git.md",
+    "Notes",
+    "Notes/Scripting",
     "Untitled.canvas",
-    "2025-04-07.md",
-    "Henry-Notes/Notes.txt",
-    "Henry-Notes",
-    "Untitled 2.md",
-    "2025-03-26.md",
-    "2025-03-24.md"
+    "Notes/Henry-Notes/Notes.txt",
+    "Notes/Henry-Notes"
   ]
 }
