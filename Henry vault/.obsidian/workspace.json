@@ -47,10 +47,24 @@
             "id": "f694b74fbc6ee3ba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Zoo Lab Argument.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zoo Lab Argument"
             }
           }
         ],
@@ -203,6 +217,7 @@
   },
   "active": "f694b74fbc6ee3ba",
   "lastOpenFiles": [
+    "ZooLab.md",
     "Notes/Notes.md",
     "Notes/Networking.md",
     "Untitled.canvas",
@@ -217,8 +232,7 @@
     "Notes/INDEX.md",
     "Basic Linux Commands.md",
     "Index.md",
-    "ZooLab.md",
-    "Zoo Lab part 2.md",
+    "Zoo Lab Argument.md",
     "Henry-Notes/README.md",
     "Henry-Notes/Notes.txt",
     "Henry-Notes",
