@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "cc71136b2ce84bbd",
+            "id": "f37880d52b18389d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,27 +44,13 @@
             }
           },
           {
-            "id": "f37880d52b18389d",
+            "id": "f694b74fbc6ee3ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ZooLab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ZooLab"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -215,23 +201,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f37880d52b18389d",
+  "active": "f694b74fbc6ee3ba",
   "lastOpenFiles": [
-    "Zoo Lab part 2.md",
-    "ZooLab.md",
-    "Henry-Notes/README.md",
-    "Henry-Notes/Notes.txt",
-    "Henry-Notes",
+    "Notes/Notes.md",
+    "Notes/Networking.md",
+    "Untitled.canvas",
     "Networking.md",
+    "Notes/Logic Gates.md",
     "Logic Gates.md",
-    "Index.md",
-    "Computer Parts.md",
-    "Basic Linux Commands.md",
-    "Notes/INDEX.md",
     "Notes/Data Types.md",
+    "Computer Parts.md",
     "Notes/Computer Parts.md",
     "Notes/Basic Linux Commands.md",
     "Notes/Bash.md",
+    "Notes/INDEX.md",
+    "Basic Linux Commands.md",
+    "Index.md",
+    "ZooLab.md",
+    "Zoo Lab part 2.md",
+    "Henry-Notes/README.md",
+    "Henry-Notes/Notes.txt",
+    "Henry-Notes",
     "Notes/Scripting/Programing Languages.md",
     "Notes/Henry-Notes/README.md",
     "Notes/Useful Commands.md",
@@ -240,14 +230,9 @@
     "Notes/Relationships.md",
     "Notes/Privacy and Security.md",
     "Notes/Permissions.md",
-    "Notes/Notes.md",
-    "Notes/Networking.md",
-    "Notes/Logic Gates.md",
     "Notes/Keywords Abbreviations.md",
-    "Notes/Git.md",
     "Notes",
     "Notes/Scripting",
-    "Untitled.canvas",
     "Notes/Henry-Notes/Notes.txt",
     "Notes/Henry-Notes"
   ]
