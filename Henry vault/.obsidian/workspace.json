@@ -90,9 +90,33 @@
               "icon": "lucide-file",
               "title": "Building a System"
             }
+          },
+          {
+            "id": "318ffc48ce0193f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LDAP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "LDAP"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -239,8 +263,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3dcd1678545b0f4",
+  "active": "318ffc48ce0193f7",
   "lastOpenFiles": [
+    "Notes/INDEX.md",
+    "LDAP.md",
     "Building a System.md",
     "Zoo Lab Argument.md",
     "ZooLab.md",
@@ -255,7 +281,6 @@
     "Notes/Computer Parts.md",
     "Notes/Basic Linux Commands.md",
     "Notes/Bash.md",
-    "Notes/INDEX.md",
     "Basic Linux Commands.md",
     "Index.md",
     "Henry-Notes/README.md",
@@ -269,7 +294,6 @@
     "Notes/Relationships.md",
     "Notes/Privacy and Security.md",
     "Notes/Permissions.md",
-    "Notes/Keywords Abbreviations.md",
     "Notes",
     "Notes/Scripting",
     "Notes/Henry-Notes/Notes.txt",
