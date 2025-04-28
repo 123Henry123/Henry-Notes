@@ -5,3 +5,6 @@
 5. inside that folder make a file "start.ldif" must end with ldif.
 6. use sudo nano "path to file" to edit the file
 7. inside the file put "dn: dc=something, dc=something else"
+
+Workstation
+1. to configure settings type "sudo nano /etc/nsswitch.conf" then type "ldap" behind the ones you want enabled.
