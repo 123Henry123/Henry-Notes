@@ -23,3 +23,10 @@ userPassword: hashed password using "slappasswd"
 
 Workstation
 1. to configure settings type "sudo nano /etc/nsswitch.conf" then type "ldap" behind the ones you want enabled.
+2. go to sudo nano /etc/nslcd.conf and change the link and passwords and stuff
+3. go to sudo nano /etc/ldap/ldap.conf and change the link
+4. find the ip address of the server with ip addr show
+5. in the workstation go to sudo nano /etc/hosts and put the ip hit tab and put the name of the domain.
+6. run ping name of the domain to check if you did it right.
+7. run sudo getent passwd username of one of the people you added on the server
+8. if it returns something that means they're connected
