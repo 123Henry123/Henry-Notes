@@ -30,3 +30,15 @@ Workstation
 6. run ping name of the domain to check if you did it right.
 7. run sudo getent passwd username of one of the people you added on the server
 8. if it returns something that means they're connected
+
+Documented process for marking users inactive so they can no longer log in. 
+Check the last time to user has logged in. If the user hasn't logged in in a designated amount of days remove then from the server.
+
+My experience:
+While making a ldap server i faced lots of difficulties and struggles. When I first initialized the ldap server I wasn't familiar with the ldap commands. After a while I got the hang of it and  configured the domain name and added the users.
+
+Later I went onto the workstation and started configuring it. At first I didn't know what to configure. After digging deep I found out what I needed to download and how to configure them.
+
+Next I moved on to creating scripts. I haven't had much experience in ldap so I struggled a but at the start. When I wanted to do something but I didn't know the command I would ask chatgpt for assistance. After lots of trial and error I managed to get my script to work. However, I forgot to delete the previous users I had created which resulted in overlapping uid numbers. I spent a few days trying to figure out what was wrong and eventually I found out what went wrong.
+
+Pros: It's lightweight so it doesn't take up too much storage.  It is very secure and hashes user passwords. It makes it easy to search for specific users and groups. Can store all sorts of user data that some servers can't store.
