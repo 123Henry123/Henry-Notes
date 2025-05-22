@@ -32,7 +32,7 @@ Workstation
 8. if it returns something that means they're connected
 
 Documented process for marking users inactive so they can no longer log in. 
-Check the last time to user has logged in. If the user hasn't logged in in a designated amount of days remove then from the server.
+Check the last time to user has logged in. If the user hasn't logged in in a designated amount of days disable the users account. When they try logging in notify them that their account has been disabled and they should contact someone.
 
 My experience:
 While making a ldap server i faced lots of difficulties and struggles. When I first initialized the ldap server I wasn't familiar with the ldap commands. After a while I got the hang of it and  configured the domain name and added the users.

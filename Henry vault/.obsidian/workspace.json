@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LDAP.md",
+                "file": "Notes/Basic Linux Commands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LDAP"
+              "title": "Basic Linux Commands"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "318ffc48ce0193f7",
   "lastOpenFiles": [
-    "Notes/INDEX.md",
     "LDAP.md",
+    "Notes/INDEX.md",
     "Building a System.md",
     "Zoo Lab Argument.md",
     "ZooLab.md",

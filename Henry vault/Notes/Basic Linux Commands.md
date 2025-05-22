@@ -15,6 +15,8 @@ mv = rename
 find path -name "name of file"= search for files
 Rm = remove stuff
 find /path/to/search -(name/size) "name or part of name" +100M
+sudo apt install snapd
+sudo snap install core
 
 Basic Windows Commands
 cd = change directory
