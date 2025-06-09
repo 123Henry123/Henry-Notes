@@ -42,3 +42,5 @@ Later I went onto the workstation and started configuring it. At first I didn't 
 Next I moved on to creating scripts. I haven't had much experience in ldap so I struggled a but at the start. When I wanted to do something but I didn't know the command I would ask chatgpt for assistance. After lots of trial and error I managed to get my script to work. However, I forgot to delete the previous users I had created which resulted in overlapping uid numbers. I spent a few days trying to figure out what was wrong and eventually I found out what went wrong.
 
 Pros: It's lightweight so it doesn't take up too much storage.  It is very secure and hashes user passwords. It makes it easy to search for specific users and groups. Can store all sorts of user data that some servers can't store.
+
+Users(client) connect to the server by identifying the IP address. 

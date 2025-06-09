@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Basic Linux Commands.md",
+                "file": "LDAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic Linux Commands"
+              "title": "LDAP"
             }
           }
         ],
@@ -265,11 +265,12 @@
   },
   "active": "318ffc48ce0193f7",
   "lastOpenFiles": [
+    "ZooLab.md",
+    "Zoo Lab Argument.md",
+    "Notes/Basic Linux Commands.md",
     "LDAP.md",
     "Notes/INDEX.md",
     "Building a System.md",
-    "Zoo Lab Argument.md",
-    "ZooLab.md",
     "Notes/Notes.md",
     "Notes/Networking.md",
     "Untitled.canvas",
@@ -279,7 +280,6 @@
     "Notes/Data Types.md",
     "Computer Parts.md",
     "Notes/Computer Parts.md",
-    "Notes/Basic Linux Commands.md",
     "Notes/Bash.md",
     "Basic Linux Commands.md",
     "Index.md",
