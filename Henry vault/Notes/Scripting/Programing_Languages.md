@@ -1,4 +1,4 @@
-Scripting vs Programming
+Scripting vs Programing
 Both: Computer languages made for writing instructions for a computer to do.
 Scripting: This language is usually used to automate tasks and configure settings.(Spt)
 Programing: This language is often used to develop more complex software of applications.(Prg)

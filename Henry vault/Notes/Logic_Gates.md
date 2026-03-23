@@ -11,3 +11,4 @@ A	B	AND	OR	XAND	NOR
 1	1	T	T	T	F
 XAND (Exclusive AND) only if both are equal.
 NOR (Neither this nor that) only proves things that are false.
+[[INDEX]]
