@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "b1293cb4cab9bedc",
+    "type": "split",
+    "children": [
+      {
+        "id": "79488ad8b0ff7631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58f9fd691d2a57ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Henry vault/LDAP/Building a System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Building a System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d84d31c7d27d0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d812026693f2fcb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "333541f7cf26f253",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4aee7d6c2ee2aa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "84ada9812f14ef2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "110c8f8ea5d2ade6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e518ee8659173731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "952690f9e25558cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bc5c4b923a7b1687",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7fda65c429d2f237",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc83ff50a260bef2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2fd5ad37076a3216",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "333541f7cf26f253",
+  "lastOpenFiles": [
+    "Henry vault/LDAP",
+    "README.md",
+    "Henry vault/LDAP/ZooLab.md",
+    "Henry vault/LDAP/Zoo Lab Argument.md",
+    "Henry vault/LDAP/Building a System.md",
+    "Henry vault/LDAP/LDAP.md",
+    "Henry vault/Notes/Permissions.md",
+    "Henry vault/Notes/INDEX.md",
+    "Henry vault/Notes/Git.md",
+    "Henry vault/Notes/Data_Types.md",
+    "Henry vault/Notes/Computer_Parts.md",
+    "Henry vault/Notes/Basic_Linux_Commands.md",
+    "Henry vault/Notes/Bash.md",
+    "Henry vault/Notes/Scripting/Programing_Languages.md",
+    "Henry vault/Notes/Useful_Commands.md",
+    "Henry vault/Notes/Security_Data.md",
+    "Henry vault/Notes/Logic_Gates.md",
+    "Henry vault/Notes/Keywords_Abbreviations.md",
+    "Henry vault/Notes/Scripting_Programing_Languages.md",
+    "Henry vault/Notes/Basic_Linux_Commands"
+  ]
+}
