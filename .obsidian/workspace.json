@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Henry vault/Notes/Git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "README"
             }
           }
         ]
@@ -182,18 +182,25 @@
   },
   "active": "58f9fd691d2a57ed",
   "lastOpenFiles": [
+    "Henry vault/Notes/Useful_Commands.md",
+    "Henry vault/Notes/Relationships.md",
+    "Henry vault/Notes/Security_Data.md",
+    "Henry vault/Notes/Privacy and Security.md",
+    "Henry vault/Notes/Permissions.md",
+    "Henry vault/Notes/Notes.md",
+    "Henry vault/Notes/Networking.md",
+    "Henry vault/Notes/Logic_Gates.md",
+    "Henry vault/Notes/Keywords_Abbreviations.md",
+    "Henry vault/Notes/Git.md",
     "Henry vault/Notes/Data_Types.md",
     "Henry vault/Notes/Computer_Parts.md",
     "Henry vault/Notes/Basic_Linux_Commands.md",
     "Henry vault/Notes/Bash.md",
-    "Henry vault/Notes/Notes.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "README.md",
     "Henry vault/Notes/Scripting/Programing_Languages.md",
+    "Untitled.base",
     "Henry vault/Notes/INDEX.md",
-    "Henry vault/Notes/Logic_Gates.md",
-    "Henry vault/Notes/Keywords_Abbreviations.md",
+    "Untitled 1.base",
+    "README.md",
     "Basic Linux Commands.md",
     "2026-03-23.md",
     "Untitled.canvas",
@@ -205,10 +212,6 @@
     "Henry vault/LDAP/ZooLab.md",
     "Henry vault/LDAP/Zoo Lab Argument.md",
     "Henry vault/LDAP/LDAP.md",
-    "Henry vault/Notes/Permissions.md",
-    "Henry vault/Notes/Git.md",
-    "Henry vault/Notes/Useful_Commands.md",
-    "Henry vault/Notes/Security_Data.md",
     "Henry vault/Notes/Basic_Linux_Commands"
   ]
 }
